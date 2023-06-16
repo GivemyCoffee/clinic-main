@@ -1,8 +1,0 @@
-{
-  "ExpandedNodes": [
-    "",
-    "\\doctor\\css"
-  ],
-  "SelectedNode": "\\doctor",
-  "PreviewInSolutionExplorer": false
-}
